@@ -8,7 +8,7 @@ Install Go lang ttps://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.
 1. subfinder https://github.com/projectdiscovery/subfinder.git <br>
 2.Assitefinder https://github.com/tomnomnom/assetfinder.git<br>
 3.Subzy https://github.com/LukaSikic/subzy.git <br>
-<b>(first intsall this all tools)</b> <br>
+<b>(first install this all tools)</b> <br>
 
 <b>Steps:</b> <br>
 git clone https://github.com/98datsec/subhunter.git <br>
