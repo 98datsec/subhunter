@@ -10,7 +10,7 @@ Go langh ttps://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.gz
 3.Subzy https://github.com/LukaSikic/subzy.git <br>
 <b>(first intsall this all tools)</b> <br>
 
-<b>Steps</b>
+<b>Steps:</b> <br>
 git clone https://github.com/98datsec/subhunter.git <br>
 cd subhunter <br>
 chmod +c subhunter.sh <br>
