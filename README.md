@@ -1,7 +1,7 @@
 # subhunter
 
 
-Requirement:
+<b>Requirement:</b>
 Go langh ttps://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.gz
 
 Script requiment
