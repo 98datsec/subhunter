@@ -2,7 +2,7 @@
 
 
 <b>Requirement:</b>
-Go langh ttps://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.gz
+Install Go lang ttps://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.gz
 
 <b>Script requiment </b> <br>
 1. subfinder https://github.com/projectdiscovery/subfinder.git <br>
