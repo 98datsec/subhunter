@@ -1,5 +1,6 @@
 # subhunter
 
+<b>This script help you to find subdomain takeover vulnerability and also find subdomain of website.</b> <br>
 
 <b>Requirement:</b>
 Install Go lang ttps://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.gz
