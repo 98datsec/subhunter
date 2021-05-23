@@ -3,12 +3,12 @@
 <b>This script help you to find subdomain takeover vulnerability and also find subdomain of website.</b> <br>
 
 <b>Requirement:</b>
-Install Go lang ttps://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.gz
+Install Go lang https://golang.org/doc/install?download=go1.16.4.linux-amd64.tar.gz
 
 <b>Script requirements </b> <br>
 1. subfinder https://github.com/projectdiscovery/subfinder.git <br>
 2.Assitefinder https://github.com/tomnomnom/assetfinder.git<br>
-3.Subzy https://github.com/LukaSikic/subzy.git <br>
+3.Subjack https://github.com/haccer/subjack <br>
 <b>(first install this all tools)</b> <br>
 
 <b>Steps:</b> <br>
